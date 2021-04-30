@@ -1,6 +1,6 @@
 ---
-title: Upgrade Dotfuscator Community
-ms.date: 03/28/2019
+title: Upgrade to Dotfuscator Professional
+ms.date: 04/30/2021
 ms.devlang: dotnet
 ms.topic: conceptual
 keywords: Dotfuscator, Dotfuscator Community, Dotfuscator CE, PreEmptive, PreEmptive Solutions, PreEmptive Protection, protection, community edition, obfuscation, .NET, free, Visual Studio 2019, Visual Studio 2017, Visual Studio, upgrade, command line
@@ -63,7 +63,7 @@ For more information about the advanced application protection features of Dotfu
 
 [This article in the full Dotfuscator Community User Guide][full]
 
-<!-- Copyright © 2019 PreEmptive Solutions, LLC -->
+<!-- Copyright © 2021 PreEmptive Solutions, LLC -->
 
 [control-flow]:  https://www.preemptive.com/products/dotfuscator/features#controlflow
 [string-encryption]:  https://www.preemptive.com/products/dotfuscator/features#string
